@@ -161,6 +161,7 @@ cython_debug/
 
 src/key.py
 src/test.ipynb
+key.py
 
 # Nick's pip virtual environment
 .openai_env
