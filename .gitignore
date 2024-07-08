@@ -165,3 +165,4 @@ key.py
 
 # Nick's pip virtual environment
 .openai_env
+data/ml_latest_large
